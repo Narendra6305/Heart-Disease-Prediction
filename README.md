@@ -112,9 +112,6 @@ Deploy model via a web app (Streamlit, Flask) or expose as an API.
 
 Explain model behavior using tools like SHAP or LIME.
 
-📝 License
-This project is licensed under the MIT License.
-
 ✨ Credits to Narendra6305
 Based on  notebook analysis. Built using pandas, scikit-learn, and seaborn. Inspired by similar end-to-end heart disease prediction tutorials.
 
